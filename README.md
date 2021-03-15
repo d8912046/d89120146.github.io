@@ -6,6 +6,6 @@
 這是我第一個網站!!!
 ## 自我介紹
 ## 好玩的圖
-(https://cpe.cse.nsysu.edu.tw/media/img/2012header.jpg)
+[cpe](https://cpe.cse.nsysu.edu.tw/media/img/2012header.jpg)
 
-!(https://cpe.cse.nsysu.edu.tw/media/img/2012header.jpg)
+![cpe](https://cpe.cse.nsysu.edu.tw/media/img/2012header.jpg)
